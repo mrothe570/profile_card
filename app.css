@@ -1,0 +1,15 @@
+body {
+    background-image:url(../profile-card-component-main/images/bg-pattern-top.svg),  url(../profile-card-component-main/images/bg-pattern-bottom.svg);
+    background-repeat: no-repeat,
+    no-repeat;
+    background-position: -25%;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
