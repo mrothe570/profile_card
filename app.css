@@ -1,8 +1,9 @@
 body {
+  background-color: hsl(228, 45%, 44%);
     background-image:url(../profile-card-component-main/images/bg-pattern-top.svg),  url(../profile-card-component-main/images/bg-pattern-bottom.svg);
     background-repeat: no-repeat,
     no-repeat;
-    background-position: -25%;
+    background-position: -25%, 125% -100%;
 }
 
 .attribution {
